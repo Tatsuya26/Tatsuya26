@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello Guys! Welcome to my Github profile! 👋
 
-<!--
-**Tatsuya26/Tatsuya26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying software engineering at Universidade do Minho
+- 🌱 I’m currently learning  Dart
+- 💬 Ask me about  Anything
+- 📫 How to reach me:  [https://www.linkedin.com/in/tiago-alves-81b7a9199/]
+- ⚡ Fun fact: I am a Taekwondo Athlete
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Tatsuya26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatsuya26&show_icons=true&theme=tokyonight&hide=issues" />
+</a>
+<a href="https://github.com/Tatsuya26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya26&hide=TeX&layout=compact&theme=tokyonight" />
+</a>
