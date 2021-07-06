@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying software engineering at Universidade do Minho
-- 🌱 I’m currently learning  Dart
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about  Anything
 - 📫 How to reach me:  [https://www.linkedin.com/in/tiago-alves-81b7a9199/]
 - ⚡ Fun fact: I am a Taekwondo Athlete
