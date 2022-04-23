@@ -11,5 +11,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatsuya26&show_icons=true&theme=tokyonight&hide=issues" />
 </a>
 <a href="https://github.com/Tatsuya26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya26&hide=TeX&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya26&hide=TeX,Jupiter%20Notebbok&layout=compact&theme=tokyonight" />
 </a>
