@@ -2,7 +2,7 @@
 
 
 - 🔭 BsC in software engineering at Universidade do Minho
-- 🌱 I’m currently learning SpringBoot framework
+- 🌱 I’m currently learning Flutter framework
 - 💬 Ask me about  Anything
 - 📫 How to reach me:  [https://www.linkedin.com/in/tiago-alves1/]
 - ⚡ Fun fact: I am a Taekwondo Athlete
